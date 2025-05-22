@@ -3,5 +3,7 @@ border: 0;
 padding: 0;
 box-sizing: border-box;}
 body{text-align: center;
-background-color: yellow;}
+background-color: yellow;
+max-width: 1000px;}
 h1{color: red;}
+ul{font-size: 2em;}
